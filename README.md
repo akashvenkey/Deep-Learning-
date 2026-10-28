@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey/Deep-Learning-">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311042,6B21A8,9333EA&height=220&section=header&text=Deep%20Learning%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Neural%20Activation%20Functions%2C%20Mathematical%20Formulations%20%26%20AI%20Ethics&descSize=16&descAlignY=60&descAlign=50" alt="Deep Learning Lab Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:6B21A8,100:9333EA&height=220&section=header&text=Deep%20Learning%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Neural%20Activation%20Functions%2C%20Mathematical%20Formulations%20and%20AI%20Ethics&descSize=16&descAlignY=60&descAlign=50" alt="Deep Learning Lab Banner" width="100%" />
 </a>
 
 
@@ -176,7 +176,7 @@ Contributions, issue reports, and academic discussions on neural activations are
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Deep-Learning-">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311042,6B21A8,9333EA&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:6B21A8,100:9333EA&height=100&section=footer" alt="Footer Banner" width="100%" />
 </a>
 
 
