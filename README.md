@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/Deep-Learning-">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311042,6B21A8,9333EA&height=220&section=header&text=Deep%20Learning%20Lab&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Neural%20Activation%20Functions%2C%20Mathematical%20Formulations%20%26%20AI%20Ethics&descSize=16&descAlignY=60&descAlign=50" alt="Deep Learning Lab Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Deep-Learning-](https://github.com/akashvenkey/Deep-Learning-)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FDeep-Learning--blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Deep-Learning-)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Deep-Learning-.git)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -166,6 +175,15 @@ Contributions, issue reports, and academic discussions on neural activations are
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/Deep-Learning-">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=311042,6B21A8,9333EA&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Deep-Learning-](https://github.com/akashvenkey/Deep-Learning-)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FDeep-Learning--blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Deep-Learning-)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Deep-Learning-.git)
 
 </div>
